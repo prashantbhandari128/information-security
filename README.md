@@ -1,6 +1,6 @@
 <div align="center">
 
-!["Information Security"](images/information-security.png)
+!["Information Security"](Images/information-security.png)
 
 # **Information Security**
 
